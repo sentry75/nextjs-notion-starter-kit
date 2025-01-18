@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Blog',
-  domain: 'sentry75.netlify.app',
+  domain: 'https://sentry-blog.netlify.app/',
   author: 'Shlok Vaidya',
 
   // open graph metadata (optional)
